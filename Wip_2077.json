@@ -1,0 +1,142 @@
+{
+    "name": "Cyberpunk 2077",
+    "description": "Original theme made based on the ui elements of Cyberbug 1077",
+    "authors": [
+        {
+            "name": "sad65",
+            "id": "659107544597266465"
+          
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#04daf6"
+        ],
+        "HEADER_SECONDARY": [
+            "#FF003C"
+        ],
+        "TEXT_NORMAL": [
+            "#e0e0e0"
+        ],
+        "TEXT_MUTED": [
+            "#554B41"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#f3e600"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#fffe60"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#F3E600"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#554b41"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0c0c0c"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#F3E600"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#04daf6"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#15100d"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#b43150"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#554b41"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#c03153"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#04daf6"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ff003c"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#F3E600"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#372E29"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#04daf6"
+        ],
+        "TEXT_LINK": [
+            "#04daf6"
+        ],
+        "TEXT_DANGER": [
+            "#ff003c"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#f3e600"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#9E8376",
+        "PRIMARY_100": "#F3E600",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#9E8376",
+        "PRIMARY_360": "#9E8376",
+        "PRIMARY_400": "#9E8376",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#957261",
+        "BRAND_360": "#D0A996",
+        "BRAND_500": "#957261",
+        "BRAND_560": "#D0A996",
+        "YELLOW_300": "#957261",
+        "GREEN_600": "#F3E600",
+        "RED_400": "#9E8376",
+        "WHITE_500": "#F3E600",
+        "GREEN_360": "#503E38"
+     },
+      "background": {
+    "blur": 0.0,
+    "url": "https://cdn.discordapp.com/attachments/950250026007928875/1136346781056254073/WBudt7Gw.png",
+    "alpha": 1.0
+    },
+    "spec": 2
+   
+}
