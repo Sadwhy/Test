@@ -112,7 +112,7 @@
     },
     "rawColors": {
         "PRIMARY_500": "#F3E600",
-        "PRIMARY_100": "#000000",
+        "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#F4EAE5",
         "PRIMARY_300": "#FF003C",
         "PRIMARY_360": "#FF003C",
@@ -129,7 +129,7 @@
         "YELLOW_300": "#957261",
         "GREEN_600": "#F3E600",
         "RED_400": "#FF003C",
-        "WHITE_500": "#ffffff",
+        "WHITE_500": "#000000",
         "GREEN_360": "#FF003C"
      },
       "background": {
