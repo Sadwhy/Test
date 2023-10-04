@@ -1,5 +1,5 @@
 {
-    "name": "Rebel",
+    "name": "Rebel+",
     "description": "There are no good endings in Night City",
     "authors": [
         {
@@ -138,7 +138,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
+        "url": "https://raw.githubusercontent.com/Sadwhy/Test/main/image%20(2).png",
         "alpha": 1.0
     },
     "spec": 2
